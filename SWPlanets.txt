@@ -1,0 +1,47 @@
+Alderaan,24
+Yavin IV,24
+Hoth,23
+Dagobah,23
+Bespin,12
+Endor,18
+Naboo,26
+Coruscant,24
+Kamino,27
+Geonosis,30
+Utapau,27
+Mustafar,36
+Kashyyyk,26
+Polis Massa,24
+Mygeeto,12
+Felucia,34
+Cato Neimoidia,25
+Saleucami,26
+Eriadu,24
+Corellia,25
+Rodia,29
+Nal Hutta,87
+Dantooine,25
+Bestine IV,26
+Ord Mantell,26
+Trandosha,25
+Socorro,20
+Mon Cala,21
+Chandrila,20
+Sullust,20
+Toydaria,21
+Malastare,26
+Dathomir,24
+Ryloth,30
+Vulpter,22
+Tund,48
+Haruun Kal,25
+Cerea,27
+Glee Anselm,33
+Iridonia,29
+Iktotch,22
+Dorin,22
+Champala,27
+Skako,27
+Muunilinst,28
+Kalee,23
+Tatooine,23
